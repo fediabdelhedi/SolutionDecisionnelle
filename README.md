@@ -1,2 +1,2 @@
 # SolutionDecisionnelle
-Implemented CRM Decision Support SolutionImplemented
+Implemented CRM Decision Support Solution
